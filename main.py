@@ -13,3 +13,7 @@ def multiply (x,y):
 
 def division (x,y):
     return y / x
+
+def substract (x, y):
+    return x - y
+
